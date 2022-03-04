@@ -125,7 +125,7 @@ body {
 .phone .chat-area .bubble.radio input:checked {
   background: #fff;
 }
-.phone .chat-area .bubble.radio p {
+.phone .chat-area .bubble.radio label {
   flex-grow: 1;
   margin-left: 7px;
   margin-right: 7px;
